@@ -37,3 +37,5 @@ Problem çözme ve algoritmik düşünme becerilerini geliştirmek,
 
 Python'da temel veri yapıları (kuyruk, yığın, küme) ile uygulama geliştirmek hedeflenmiştir.
 
+Detaylı proje raporu için: [yapayzeka_proje_raporu.pdf](./yapayzeka_proje_raporu.pdf)
+
